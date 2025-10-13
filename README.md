@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+I am a Master's student at Northwestern University, studying Machine Learning and Data Science.
+- Former Data Science Lead Intern at AT&T
+- Former Data Analyst at SportsMedia Technology (SMT)
+- Graduated from UCLA with a degree in Statistics and Data Science
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/liana-bergman9/)
+
+## Projects
+Here are some of my repositories of projects that I have worked on in groups and individually during my Master's program
+- [Restaurant Recommendation System](https://github.com/Uclabruin9/Restaurant-Recommendation-System-and-Customer-Segmentation-Project)
+- [Classification Deep Learning Project](https://github.com/Uclabruin9/Deep-Learning-Project)
+- [Speech to Text Analysis Final Project](https://github.com/Uclabruin9/Speech-to-Text-Analysis-Final-Project-)
+- [Gen AI Final Project - Rewriting News Headlines](https://github.com/Uclabruin9/Gen-AI-Project-News-Headline-Rewriting)
+- [Intro to Python Final Project](https://github.com/Uclabruin9/Python-Final-Project)
+
 <!--
 **Uclabruin9/Uclabruin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
