@@ -7,7 +7,8 @@ I am a Master's student at Northwestern University, studying Machine Learning an
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/liana-bergman9/)
 
 ## Projects
-Here are some of my repositories of projects that I have worked on in groups and individually during my Master's program
+Here are some of my repositories of projects that I have worked on in groups and individually during my Master's program:
+- [Data Warehousing Final Project] (https://github.com/Uclabruin9/Data-Warehousing-Final-Project)
 - [Restaurant Recommendation System](https://github.com/Uclabruin9/Restaurant-Recommendation-System-and-Customer-Segmentation-Project)
 - [Classification Deep Learning Project](https://github.com/Uclabruin9/Deep-Learning-Project)
 - [Speech to Text Analysis Final Project](https://github.com/Uclabruin9/Speech-to-Text-Analysis-Final-Project-)
