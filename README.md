@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Master's student at Northwestern University, studying Machine Learning and Data Science.
+I recently graduated with my Master's in Machine Learning and Data Science from Northwestern University.
 - Former Data Science Lead Intern at AT&T
 - Former Data Analyst at SportsMedia Technology (SMT)
 - Graduated from UCLA with a degree in Statistics and Data Science
