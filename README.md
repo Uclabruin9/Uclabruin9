@@ -13,7 +13,7 @@ Here are some of my repositories of projects that I have worked on in groups and
 - [Classification Deep Learning Project](https://github.com/Uclabruin9/Deep-Learning-Project)
 - [Speech to Text Analysis Final Project](https://github.com/Uclabruin9/Speech-to-Text-Analysis-Final-Project-)
 - [Gen AI Final Project - Rewriting News Headlines](https://github.com/Uclabruin9/Gen-AI-Project-News-Headline-Rewriting)
-- [Intro to Python Final Project](https://github.com/Uclabruin9/Python-Final-Project)
+- [Intro to Python Final Project Full ML Workflow](https://github.com/Uclabruin9/Python-Final-Project)
 
 <!--
 **Uclabruin9/Uclabruin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
