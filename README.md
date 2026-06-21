@@ -15,6 +15,9 @@ Here are some of my repositories of projects that I have worked on in groups and
 - [Gen AI Final Project - Rewriting News Headlines](https://github.com/Uclabruin9/Gen-AI-Project-News-Headline-Rewriting)
 - [Intro to Python Final Project - Full ML Workflow](https://github.com/Uclabruin9/Python-Final-Project)
 
+Here are some of my repositories of projects that I have worked on individually outside of school:
+-[NBA Shot Analyzer Demo](
+
 <!--
 **Uclabruin9/Uclabruin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
